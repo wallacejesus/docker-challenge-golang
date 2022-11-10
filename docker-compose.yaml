@@ -1,0 +1,5 @@
+version: '3'
+services:
+  golang-challenge:
+    image: wallacejesus/codeeducation
+    container_name: golang-challenge
